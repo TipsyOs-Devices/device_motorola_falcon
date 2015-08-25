@@ -22,5 +22,11 @@
     "repository":  "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch":      "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TipsyOs/packages_apps_DeviceHandler",
+    "target_path": "packages/apps/DeviceHandler",
+    "branch":      "lp5.1"
   }
 ]
