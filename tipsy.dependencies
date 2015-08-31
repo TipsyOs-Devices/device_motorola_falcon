@@ -15,7 +15,7 @@
     "remote":      "github",
     "repository":  "Validus-Kernel/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "branch":      "optimus"
+    "branch":      "tipsy"
   },
   {
     "remote":      "github",
