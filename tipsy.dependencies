@@ -13,6 +13,12 @@
   },
   {
     "remote": "github",
+    "repository": "SlimRoms/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "ng7.1"
+  },
+  {
+    "remote": "github",
     "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch": "cm-14.1"
