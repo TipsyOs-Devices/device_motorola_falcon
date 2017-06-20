@@ -29,4 +29,7 @@
 
     <!-- Doze: should the proximity sensor (handwave / pocket mode) be used as a pulse signal. -->
     <bool name="config_dozePulseProximity">true</bool>
+
+    <!-- Doze: should the tilt sensor be used as a pulse signal. -->
+    <bool name="config_dozePulseTilt">true</bool>
 </resources>
