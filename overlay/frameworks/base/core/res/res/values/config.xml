@@ -26,4 +26,7 @@
          don't support RIL_REQUEST_GET_RADIO_CAPABILITY
          format is UMTS|LTE|... -->
     <string translatable="false" name="config_radio_access_family">GSM | WCDMA | CDMA | EVDO</string>
+
+    <!-- Doze: should the proximity sensor (handwave / pocket mode) be used as a pulse signal. -->
+    <bool name="config_dozePulseProximity">true</bool>
 </resources>
